@@ -1,0 +1,1 @@
+Port of [jgod/eval](https://github.com/jgod/eval) to JavaScript.
